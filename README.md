@@ -16,7 +16,7 @@
 
 ## About
 
-Business Intelligence Developer with a Computer Science background and hands-on experience across corporate KYC operations, AI data annotation, and business analytics. I specialize in converting raw, unstructured data into interactive dashboards, well-defined KPIs, and insights that support decision-making at the operational and executive level.
+Business Intelligence Developer with hands-on experience across corporate KYC operations, AI data annotation, and business analytics. I specialize in converting raw, unstructured data into interactive dashboards, well-defined KPIs, and insights that support decision-making at the operational and executive level.
 
 My core focus is end-to-end BI delivery: gathering business requirements, modeling data, building Power BI dashboards, and producing reports that translate directly into action. I'm currently deepening my expertise in cloud analytics and modern enterprise data platforms.
 
