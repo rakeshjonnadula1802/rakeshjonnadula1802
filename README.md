@@ -1,58 +1,85 @@
-## Hi there, I'm Rakesh Jonnadula 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;SQL+%7C+Power+BI+%7C+Azure;Automating+Reports%2C+One+Query+at+a+Time" alt="Typing SVG" />
+
+# Rakesh Jonnadula
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Business+Intelligence+Developer;SQL+%7C+Power+BI+%7C+Python+%7C+Azure;Turning+Data+Into+Business+Decisions;Building+Enterprise+Analytics+Solutions" />
+
+<p>
+<a href="https://linkedin.com/in/rakeshjonnadula1802"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rakeshjonnadula1802@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://rakeshjonnadula1802.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+</p>
+
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/rakeshjonnadula1802"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:rakeshjonnadula1802@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+---
 
-## 🚀 About Me
-I'm a Data Analyst with experience turning raw, messy datasets into clear, actionable business insights. I work with SQL, Power BI, and Azure to extract, transform, and analyze data, building dashboards that help stakeholders track KPIs, spot trends, and make data-driven decisions.
+## About
 
-My focus is on building dashboards that get used, automating recurring reporting workflows to cut down manual effort, and designing scalable data models that support business intelligence initiatives across teams.
+Business Intelligence Developer with a Computer Science background and hands-on experience across corporate KYC operations, AI data annotation, and business analytics. I specialize in converting raw, unstructured data into interactive dashboards, well-defined KPIs, and insights that support decision-making at the operational and executive level.
 
-I love the "aha!" moment when data reveals something new and useful, and I'm always working on sharpening my skills in analytics, visualization, and cloud-based data solutions.
+My core focus is end-to-end BI delivery: gathering business requirements, modeling data, building Power BI dashboards, and producing reports that translate directly into action. I'm currently deepening my expertise in cloud analytics and modern enterprise data platforms.
 
-### [🏆 Check Out My Full Portfolio Website](https://rakeshjonnadula1802.github.io/)
+---
 
-## 🔭 What I'm Currently Working On
-- **Sales Performance Dashboard:** An interactive Power BI dashboard tracking revenue, profit, sales growth, and regional performance with drill-through reports and DAX-driven KPIs.
-- **Reporting Automation:** Automating recurring SQL-based reports to reduce manual effort and improve turnaround time.
-- **Content Creation:** Sharing what I learn about SQL, Power BI, and data analytics on my YouTube channel.
+## Professional Interests
 
-## 🌱 Currently Learning
-- Preparing for the Microsoft Power BI Data Analyst Associate (PL-300) certification.
-- Deepening my Python skills for data analysis and automation.
-- Exploring Azure data services for scalable, enterprise-level reporting.
+Business Intelligence &nbsp;•&nbsp; Data Analytics &nbsp;•&nbsp; Business Analysis &nbsp;•&nbsp; Dashboard Development &nbsp;•&nbsp; KPI Reporting &nbsp;•&nbsp; Data Visualization &nbsp;•&nbsp; Cloud Analytics &nbsp;•&nbsp; Financial & Banking Analytics
 
-## 🛠️ Technical Skillset
+---
 
-#### Data Analysis & Visualization
-<p>
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Advanced-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/DAX-Intermediate-F2C811?style=flat" alt="DAX Skill Badge">
-</p>
+## Technical Skills
 
-#### Programming & Cloud
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/Azure-Intermediate-0078D4?style=flat&logo=microsoft-azure&logoColor=white" alt="Azure Skill Badge">
-</p>
+| Category | Skills |
+|---|---|
+| **Business Intelligence** | Power BI, DAX, Power Query, Data Modeling, Dashboard Design, KPI Reporting |
+| **Database** | SQL, Snowflake |
+| **Programming** | Python |
+| **Cloud** | Microsoft Azure |
+| **Visualization** | Power BI, Tableau |
+| **Methodologies** | Agile, Business Requirements Documentation (BRD) |
+| **Version Control** | Git, GitHub |
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/KPI%20Reporting-Experienced-96CEB4?style=flat" alt="KPI Reporting Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Modeling-Experienced-45B7D1?style=flat" alt="Data Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/ETL-Experienced-FF6B6B?style=flat" alt="ETL Skill Badge">
-  <img src="https://img.shields.io/badge/Data%20Visualization-Experienced-4ECDC4?style=flat" alt="Data Visualization Skill Badge">
-</p>
+---
 
-## 📜 Certifications
+## Current Focus
+
+- Advanced Power BI, DAX & Power Query
+- Enterprise Data Modeling
+- SQL Performance Optimization
+- Microsoft Fabric
+- Snowflake & Azure Data Services
+
+---
+
+## Featured Portfolio Projects
+
+Each project follows an enterprise BI lifecycle: **Business Requirements → Data Analysis → SQL → Data Modeling → Power BI → Executive Insights**
+
+- **Customer Credit Card Portfolio BI Dashboard** — spending pattern analysis with star-schema data modeling
+- **Sales Performance Analytics Dashboard** — end-to-end sales KPI tracking and reporting
+- **HR Analytics Dashboard** — workforce metrics and headcount insights
+- **Banking KPI Dashboard** — key banking performance indicators
+- **Executive Business Reporting Dashboard** — leadership-facing summary reporting
+
+---
+
+## Certifications
+
+- Microsoft PL-300: Power BI Data Analyst Associate *(In Progress)*
 - HackerRank SQL (Advanced)
-- Data Visualization with Power BI
-- Microsoft Power BI Data Analyst Associate (PL-300) — *In Progress*
+- Power BI Data Visualization
+
+---
+
+## Career Goal
+
+Building toward a career as a Business Intelligence Developer delivering scalable analytics solutions that help organizations make faster, data-driven decisions — with a longer-term path into Analytics Engineering and modern data platforms.
+
+---
+
+<div align="center">
+
+*Turning business data into strategic decisions through analytics, visualization, and Business Intelligence.*
+
+</div>
