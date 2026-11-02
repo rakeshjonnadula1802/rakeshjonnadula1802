@@ -15,60 +15,269 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Engineer with** specializing in building scalable **ETL/ELT pipelines, Azure cloud data platforms, Lakehouse solutions, and Big Data processing workflows**.
+I am a **Data Engineer specializing in** building scalable **ETL/ELT pipelines, Azure cloud data platforms, Lakehouse solutions, and Big Data processing workflows**.
 
 My core expertise includes **Azure Data Factory, Azure Databricks, PySpark, Apache Spark, Spark SQL, Delta Lake, and ADLS Gen2**.
 
 I focus on developing **reliable, scalable, secure, and performance-optimized data solutions**, with hands-on experience in **Medallion Architecture, incremental processing, data quality, data governance, data modeling, and CI/CD**.
 
-I have optimized cloud data workloads by implementing incremental processing and Spark performance techniques, achieving approximately **25% reduction in cloud compute costs** and **30% improvement in Spark query runtimes**.
+I have optimized cloud data workloads through incremental processing and Spark performance techniques, achieving approximately **25% reduction in cloud compute costs** and **30% improvement in Spark query runtimes**.
 
 ---
 
-## 🧰 Technical Skills
+# 🧰 Technical Skills
 
-### ☁️ Azure & Cloud Data Engineering
+## ☁️ Azure & Cloud Data Engineering
 
 <p>
+<a href="https://azure.microsoft.com/en-us/products/data-factory">
 <img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/databricks">
 <img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/storage/data-lake-storage">
 <img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/azure-sql/database">
 <img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/synapse-analytics">
 <img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+
+<a href="https://azure.microsoft.com/en-us/products/key-vault">
 <img src="https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
 </p>
 
 **Azure Data Factory • Azure Databricks • ADLS Gen2 • Azure SQL • Azure Synapse • Azure Logic Apps • Azure Key Vault**
 
-### ⚡ Big Data & Processing
+---
+
+## ⚡ Big Data & Lakehouse
 
 <p>
+<a href="https://spark.apache.org/">
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</a>
+
+<a href="https://spark.apache.org/docs/latest/api/python/">
 <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+</a>
+
+<a href="https://delta.io/">
 <img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge" />
+</a>
 </p>
 
 **Apache Spark • PySpark • Spark SQL • Delta Lake • Auto Loader • Incremental Processing • Medallion Architecture**
 
-### 💻 Programming & Databases
+---
+
+## 💻 Programming & Databases
 
 <p>
+<a href="https://www.python.org/">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</a>
+
+<a href="https://www.mysql.com/">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</a>
+
+<a href="https://www.microsoft.com/en-us/sql-server">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</a>
 </p>
 
 **Python • PySpark • SQL • MySQL • Azure SQL**
 
+---
 
+## 🔐 Data Governance & Security
 
-### 🔄 Development & Tools
+**Unity Catalog • Data Governance • Data Quality • Schema Validation • Access Policies • Managed Identities • Azure Key Vault**
+
+---
+
+## 🔄 Development & Tools
+
+<p>
+<a href="https://git-scm.com/">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</a>
+
+<a href="https://code.visualstudio.com/">
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</a>
+
+<a href="https://www.atlassian.com/software/jira">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</a>
+
+<a href="https://powerbi.microsoft.com/">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</a>
+</p>
 
 **Git • CI/CD • Visual Studio Code • Jira • Power BI**
 
 ---
 
-## 📫 Contact
+# 🏗️ Data Engineering Workflow
+
+```text
+                    ┌─────────────────────┐
+                    │    Source Systems   │
+                    │ SQL Server / Storage │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │  Azure Data Factory │
+                    │   ETL Orchestration │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │   Azure Databricks  │
+                    │  PySpark / Spark SQL│
+                    └──────────┬──────────┘
+                               │
+                 ┌─────────────┴─────────────┐
+                 ▼                           ▼
+          ┌─────────────┐             ┌─────────────┐
+          │   BRONZE    │             │   SILVER    │
+          │  Raw Data   │ ─────────▶ │ Transformed │
+          └─────────────┘             └──────┬──────┘
+                                             │
+                                             ▼
+                                      ┌─────────────┐
+                                      │    GOLD     │
+                                      │  Analytics  │
+                                      └──────┬──────┘
+                                             │
+                                             ▼
+                                      ┌─────────────┐
+                                      │ Unity       │
+                                      │ Catalog     │
+                                      └─────────────┘
+```
+
+---
+
+# 🚀 What I Build
+
+### 🔹 ETL / ELT Pipelines
+Designing scalable and parameterized data pipelines using **Azure Data Factory, Databricks and PySpark**.
+
+### 🔹 Lakehouse Solutions
+Building **Bronze, Silver and Gold layers** using **Delta Lake and Medallion Architecture**.
+
+### 🔹 Big Data Processing
+Developing scalable transformations with **PySpark, Apache Spark and Spark SQL**.
+
+### 🔹 Incremental Data Processing
+Designing incremental pipelines to reduce unnecessary processing and improve cloud cost efficiency.
+
+### 🔹 Data Quality
+Implementing validation for **duplicates, null values, schema drift and record reconciliation**.
+
+### 🔹 Data Governance
+Using **Unity Catalog** for centralized governance, access management and data discovery.
+
+### 🔹 Secure Data Engineering
+Using **Azure Key Vault and Managed Identities** to secure data engineering workflows.
+
+### 🔹 CI/CD
+Using **Git and CI/CD practices** for version control, code reviews and deployment workflows.
+
+---
+
+# 📊 Key Engineering Highlights
+
+| Area | Impact |
+|---|---|
+| ☁️ Cloud Cost Optimization | ~25% reduction |
+| ⚡ Spark Optimization | ~30% runtime improvement |
+| 🔄 Incremental Processing | Reduced unnecessary full loads |
+| 🛡️ Data Quality | Validation for duplicates, nulls & schema drift |
+| 🔐 Security | Key Vault + Managed Identities |
+| 🏛️ Governance | Unity Catalog |
+| 🚀 Deployment | Git + CI/CD |
+
+---
+
+# 📂 Featured Project
+
+## Metadata-Driven Data Engineering Framework
+
+**Databricks • PySpark • SQL • Delta Lake • Unity Catalog • Azure Data Factory**
+
+A scalable metadata-driven ETL framework built using **Databricks and Medallion Architecture** for automated, incremental and governed data processing.
+
+### Key Features
+
+- 🥉 Bronze / Silver / Gold architecture
+- 🔄 Incremental data ingestion
+- ⚡ PySpark & Spark SQL transformations
+- 📥 Auto Loader pipelines
+- ⚙️ Metadata-driven orchestration
+- 🔗 Azure Data Factory integration
+- 📊 Databricks Jobs / Workflows
+- 📝 Audit logging
+- 🚨 Error handling & failure notifications
+- 🔐 Unity Catalog governance
+
+---
+
+# 🎯 Core Expertise
+
+```text
+Azure Data Engineering
+        │
+        ├── Azure Data Factory
+        ├── Azure Databricks
+        ├── ADLS Gen2
+        └── Azure SQL
+                │
+                ▼
+          Big Data Processing
+                │
+        ├── Apache Spark
+        ├── PySpark
+        └── Spark SQL
+                │
+                ▼
+            Lakehouse
+                │
+        ├── Delta Lake
+        ├── Bronze
+        ├── Silver
+        └── Gold
+                │
+                ▼
+        Governance & Security
+                │
+        ├── Unity Catalog
+        ├── Key Vault
+        └── Managed Identity
+                │
+                ▼
+          DevOps & Delivery
+                │
+        ├── Git
+        └── CI/CD
+```
+
+---
+
+# 📫 Contact
 
 📍 **Chennai, India**
 
