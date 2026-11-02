@@ -99,10 +99,6 @@ I have optimized cloud data workloads through incremental processing and Spark p
 
 ---
 
-## 🔐 Data Governance & Security
-
-**Unity Catalog • Data Governance • Data Quality • Schema Validation • Access Policies • Managed Identities • Azure Key Vault**
-
 ---
 
 ## 🔄 Development & Tools
@@ -128,47 +124,6 @@ I have optimized cloud data workloads through incremental processing and Spark p
 **Git • CI/CD • Visual Studio Code • Jira • Power BI**
 
 ---
-
-# 🏗️ Data Engineering Workflow
-
-```text
-                    ┌─────────────────────┐
-                    │    Source Systems   │
-                    │ SQL Server / Storage │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │  Azure Data Factory │
-                    │   ETL Orchestration │
-                    └──────────┬──────────┘
-                               │
-                               ▼
-                    ┌─────────────────────┐
-                    │   Azure Databricks  │
-                    │  PySpark / Spark SQL│
-                    └──────────┬──────────┘
-                               │
-                 ┌─────────────┴─────────────┐
-                 ▼                           ▼
-          ┌─────────────┐             ┌─────────────┐
-          │   BRONZE    │             │   SILVER    │
-          │  Raw Data   │ ─────────▶ │ Transformed │
-          └─────────────┘             └──────┬──────┘
-                                             │
-                                             ▼
-                                      ┌─────────────┐
-                                      │    GOLD     │
-                                      │  Analytics  │
-                                      └──────┬──────┘
-                                             │
-                                             ▼
-                                      ┌─────────────┐
-                                      │ Unity       │
-                                      │ Catalog     │
-                                      └─────────────┘
-```
-
 ---
 
 # 🚀 What I Build
@@ -197,85 +152,7 @@ Using **Azure Key Vault and Managed Identities** to secure data engineering work
 ### 🔹 CI/CD
 Using **Git and CI/CD practices** for version control, code reviews and deployment workflows.
 
----
-
-# 📊 Key Engineering Highlights
-
-| Area | Impact |
-|---|---|
-| ☁️ Cloud Cost Optimization | ~25% reduction |
-| ⚡ Spark Optimization | ~30% runtime improvement |
-| 🔄 Incremental Processing | Reduced unnecessary full loads |
-| 🛡️ Data Quality | Validation for duplicates, nulls & schema drift |
-| 🔐 Security | Key Vault + Managed Identities |
-| 🏛️ Governance | Unity Catalog |
-| 🚀 Deployment | Git + CI/CD |
-
----
-
-# 📂 Featured Project
-
-## Metadata-Driven Data Engineering Framework
-
-**Databricks • PySpark • SQL • Delta Lake • Unity Catalog • Azure Data Factory**
-
-A scalable metadata-driven ETL framework built using **Databricks and Medallion Architecture** for automated, incremental and governed data processing.
-
-### Key Features
-
-- 🥉 Bronze / Silver / Gold architecture
-- 🔄 Incremental data ingestion
-- ⚡ PySpark & Spark SQL transformations
-- 📥 Auto Loader pipelines
-- ⚙️ Metadata-driven orchestration
-- 🔗 Azure Data Factory integration
-- 📊 Databricks Jobs / Workflows
-- 📝 Audit logging
-- 🚨 Error handling & failure notifications
-- 🔐 Unity Catalog governance
-
----
-
-# 🎯 Core Expertise
-
-```text
-Azure Data Engineering
-        │
-        ├── Azure Data Factory
-        ├── Azure Databricks
-        ├── ADLS Gen2
-        └── Azure SQL
-                │
-                ▼
-          Big Data Processing
-                │
-        ├── Apache Spark
-        ├── PySpark
-        └── Spark SQL
-                │
-                ▼
-            Lakehouse
-                │
-        ├── Delta Lake
-        ├── Bronze
-        ├── Silver
-        └── Gold
-                │
-                ▼
-        Governance & Security
-                │
-        ├── Unity Catalog
-        ├── Key Vault
-        └── Managed Identity
-                │
-                ▼
-          DevOps & Delivery
-                │
-        ├── Git
-        └── CI/CD
-```
-
----
+----
 
 # 📫 Contact
 
