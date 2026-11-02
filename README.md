@@ -1,85 +1,228 @@
-<div align="center">
+# 👋 Hi, I'm Rakesh Jonnadula
 
-# Rakesh Jonnadula
+### Azure Data Engineer | Databricks | PySpark | ETL/ELT | Lakehouse | Big Data
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Business+Intelligence+Developer;SQL+%7C+Power+BI+%7C+Python+%7C+Azure;Turning+Data+Into+Business+Decisions;Building+Enterprise+Analytics+Solutions" />
-
-<p>
-<a href="https://linkedin.com/in/rakeshjonnadula1802"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:rakeshjonnadula1802@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://rakeshjonnadula1802.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-F97316?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<p align="left">
+  <img src="https://img.shields.io/badge/Azure-Data%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Databricks-Lakehouse-red" />
+  <img src="https://img.shields.io/badge/PySpark-Big%20Data-orange" />
+  <img src="https://img.shields.io/badge/Python-Development-yellow" />
+  <img src="https://img.shields.io/badge/SQL-Data%20Engineering-blue" />
+  <img src="https://img.shields.io/badge/Delta%20Lake-Data%20Lakehouse-purple" />
 </p>
 
-</div>
+---
+
+## 👨‍💻 About Me
+
+I am a **Data Engineer with 1+ years of experience** specializing in building scalable **ETL/ELT pipelines, Azure cloud data platforms, Lakehouse solutions, and Big Data processing workflows**.
+
+My core expertise includes **Azure Data Factory, Azure Databricks, PySpark, Apache Spark, Spark SQL, Delta Lake, and ADLS Gen2**.
+
+I focus on developing **reliable, scalable, secure, and performance-optimized data solutions**, with hands-on experience in **Medallion Architecture, incremental processing, data quality, data governance, data modeling, and CI/CD**.
+
+I have optimized cloud data workloads by implementing incremental processing and Spark performance techniques, achieving approximately **25% reduction in cloud compute costs** and **30% improvement in Spark query runtimes**.
 
 ---
 
-## About
+## 🧰 Technical Skills
 
-Business Intelligence Developer with hands-on experience across corporate KYC operations, AI data annotation, and business analytics. I specialize in converting raw, unstructured data into interactive dashboards, well-defined KPIs, and insights that support decision-making at the operational and executive level.
+### ☁️ Azure & Cloud Data Engineering
 
-My core focus is end-to-end BI delivery: gathering business requirements, modeling data, building Power BI dashboards, and producing reports that translate directly into action. I'm currently deepening my expertise in cloud analytics and modern enterprise data platforms.
+<p>
+<img src="https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure%20Key%20Vault-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
+
+**Azure Data Factory • Azure Databricks • ADLS Gen2 • Azure SQL • Azure Synapse • Azure Logic Apps • Azure Key Vault**
+
+### ⚡ Big Data & Processing
+
+<p>
+<img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+<img src="https://img.shields.io/badge/Delta%20Lake-00ADD8?style=for-the-badge" />
+</p>
+
+**Apache Spark • PySpark • Spark SQL • Delta Lake • Auto Loader • Incremental Processing • Medallion Architecture**
+
+### 💻 Programming & Databases
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Python • PySpark • SQL • MySQL • Azure SQL**
+
+### 🔐 Data Governance & Security
+
+**Unity Catalog • Data Governance • Data Quality • Schema Validation • Access Policies • Managed Identities • Azure Key Vault**
+
+### 🔄 Development & Tools
+
+**Git • CI/CD • Visual Studio Code • Jira • Power BI**
 
 ---
 
-## Professional Interests
+# 💼 Professional Experience
 
-Business Intelligence &nbsp;•&nbsp; Data Analytics &nbsp;•&nbsp; Business Analysis &nbsp;•&nbsp; Dashboard Development &nbsp;•&nbsp; KPI Reporting &nbsp;•&nbsp; Data Visualization &nbsp;•&nbsp; Cloud Analytics &nbsp;•&nbsp; Financial & Banking Analytics
+## Data Engineer — Teleperformance
+
+**Chennai, India | Aug 2025 – Present**
+
+- Developed **end-to-end ETL/ELT pipelines** using Azure Data Factory, Databricks, PySpark, Spark SQL, ADLS Gen2, and Delta Lake.
+- Designed **dynamic and parameterized ADF pipelines** with incremental processing, reducing unnecessary full loads and cloud compute costs by approximately **25%**.
+- Developed scalable **PySpark and Spark SQL transformations** for cleansing, standardization, joins, aggregations, and data modeling.
+- Optimized Apache Spark workloads using **partition pruning, broadcast joins, and caching**, reducing query runtimes by approximately **30%**.
+- Implemented data-quality validation covering **duplicates, null values, schema drift, and record reconciliation**.
+- Applied **Unity Catalog** for centralized data governance, data discovery, access policies, and granular permissions.
+- Integrated **Azure Key Vault and Managed Identities** to secure data engineering workflows and eliminate hardcoded credentials.
+- Used **Git** for version control, code reviews, CI/CD, and Dev/QA/Production deployments.
 
 ---
 
-## Technical Skills
+## AI Training Specialist — Contract | Outlier.ai
 
-| Category | Skills |
+**2024 – 2025**
+
+- Validated and refined large-scale datasets and code-generation outputs.
+- Applied **RLHF, data validation, anomaly detection, and schema compliance** techniques.
+- Collaborated with distributed engineering teams to identify data-quality issues and reduce output error rates by **18%+**.
+
+---
+
+# 🚀 Featured Project
+
+## Metadata-Driven Data Engineering Framework
+
+**Databricks • PySpark • SQL • Delta Lake • Unity Catalog • Azure Data Factory**
+
+A scalable **metadata-driven ETL framework** designed using **Databricks and Medallion Architecture** to support automated, incremental, and governed data processing.
+
+### 🏗️ Architecture
+
+```text
+                    ┌──────────────────────┐
+                    │    Source Systems    │
+                    │ SQL Server / Storage  │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │   Azure Data Factory │
+                    │   Orchestration      │
+                    └──────────┬───────────┘
+                               │
+                               ▼
+                 ┌─────────────────────────────┐
+                 │        DATABRICKS           │
+                 │     Metadata-Driven ETL     │
+                 └─────────────┬───────────────┘
+                               │
+              ┌────────────────┼────────────────┐
+              ▼                ▼                ▼
+        ┌──────────┐     ┌──────────┐     ┌──────────┐
+        │  BRONZE  │ ──▶ │  SILVER  │ ──▶ │   GOLD   │
+        │   Raw    │     │ Cleansed │     │ Business │
+        │   Data   │     │   Data   │     │   Data   │
+        └──────────┘     └──────────┘     └──────────┘
+                               │
+                               ▼
+                    ┌──────────────────────┐
+                    │    Unity Catalog     │
+                    │ Governance & Access  │
+                    └──────────────────────┘
+```
+
+### 🔑 Key Capabilities
+
+- Built **Bronze/Silver/Gold Medallion Architecture** for scalable ingestion and transformation.
+- Developed reusable **PySpark and Auto Loader pipelines** for automated incremental ingestion.
+- Implemented metadata-driven orchestration using **Databricks Jobs/Workflows and Azure Data Factory**.
+- Designed parameterized processing for **multi-table data pipelines**.
+- Added **audit logging, monitoring, error handling, and automated failure notifications**.
+- Developed Silver and Gold transformations using **PySpark and SQL**.
+- Applied **Unity Catalog** for centralized governance and access management.
+
+---
+
+# 📊 Data Engineering Focus
+
+```text
+                 DATA ENGINEERING
+                        │
+          ┌─────────────┴─────────────┐
+          │                           │
+     DATA INGESTION              PROCESSING
+          │                           │
+    Azure Data Factory          PySpark / Spark
+    Auto Loader                 Spark SQL
+          │                           │
+          └─────────────┬─────────────┘
+                        │
+                   DELTA LAKE
+                        │
+              MEDALLION ARCHITECTURE
+                        │
+          ┌─────────────┼─────────────┐
+          │             │             │
+       BRONZE         SILVER        GOLD
+          │             │             │
+          └─────────────┼─────────────┘
+                        │
+                 DATA GOVERNANCE
+                        │
+                  UNITY CATALOG
+```
+
+---
+
+# 🎯 Core Strengths
+
+| Area | Expertise |
 |---|---|
-| **Business Intelligence** | Power BI, DAX, Power Query, Data Modeling, Dashboard Design, KPI Reporting |
-| **Database** | SQL, Snowflake |
-| **Programming** | Python |
 | **Cloud** | Microsoft Azure |
-| **Visualization** | Power BI, Tableau |
-| **Methodologies** | Agile, Business Requirements Documentation (BRD) |
-| **Version Control** | Git, GitHub |
+| **ETL/ELT** | Azure Data Factory, Databricks |
+| **Big Data** | Apache Spark, PySpark, Spark SQL |
+| **Lakehouse** | Delta Lake, Medallion Architecture |
+| **Storage** | ADLS Gen2 |
+| **Databases** | Azure SQL, MySQL, Azure Synapse |
+| **Programming** | Python, PySpark, SQL |
+| **Governance** | Unity Catalog, Data Quality, Data Governance |
+| **Security** | Azure Key Vault, Managed Identities |
+| **DevOps** | Git, CI/CD |
+| **Analytics** | Power BI |
 
 ---
 
-## Current Focus
+# 📚 Education
 
-- Advanced Power BI, DAX & Power Query
-- Enterprise Data Modeling
-- SQL Performance Optimization
-- Microsoft Fabric
-- Snowflake & Azure Data Services
+### Bachelor of Technology — Computer Science and Technology
+
+**Presidency University, Bangalore, India | 2024**
 
 ---
 
-## Featured Portfolio Projects
+## 📫 Contact
 
-Each project follows an enterprise BI lifecycle: **Business Requirements → Data Analysis → SQL → Data Modeling → Power BI → Executive Insights**
+📍 **Chennai, India**
 
-- **Customer Credit Card Portfolio BI Dashboard** — spending pattern analysis with star-schema data modeling
-- **Sales Performance Analytics Dashboard** — end-to-end sales KPI tracking and reporting
-- **HR Analytics Dashboard** — workforce metrics and headcount insights
-- **Banking KPI Dashboard** — key banking performance indicators
-- **Executive Business Reporting Dashboard** — leadership-facing summary reporting
+📧 **rakeshjonnadula180@gmail.com**
+
+📞 **+91 9032813143**
 
 ---
 
-## Certifications
+<p align="center">
 
-- Microsoft PL-300: Power BI Data Analyst Associate *(In Progress)*
-- HackerRank SQL (Advanced)
-- Power BI Data Visualization
+### ⭐ Building scalable data solutions with Azure, Databricks & PySpark
 
----
+**Thanks for visiting my profile!**
 
-## Career Goal
-
-Building toward a career as a Business Intelligence Developer delivering scalable analytics solutions that help organizations make faster, data-driven decisions — with a longer-term path into Analytics Engineering and modern data platforms.
-
----
-
-<div align="center">
-
-*Turning business data into strategic decisions through analytics, visualization, and Business Intelligence.*
-
-</div>
+</p>
