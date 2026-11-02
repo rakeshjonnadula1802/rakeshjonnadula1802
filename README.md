@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rakesh Jonnadula
 
-### Azure Data Engineer | Databricks | PySpark | ETL/ELT | Lakehouse | Big Data
+### Azure Data Engineer | Databricks | PySpark | ETL | Lakehouse | Big Data
 
 <p align="left">
   <img src="https://img.shields.io/badge/Azure-Data%20Engineering-blue" />
@@ -15,7 +15,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Data Engineer with 1+ years of experience** specializing in building scalable **ETL/ELT pipelines, Azure cloud data platforms, Lakehouse solutions, and Big Data processing workflows**.
+I am a **Data Engineer with** specializing in building scalable **ETL/ELT pipelines, Azure cloud data platforms, Lakehouse solutions, and Big Data processing workflows**.
 
 My core expertise includes **Azure Data Factory, Azure Databricks, PySpark, Apache Spark, Spark SQL, Delta Lake, and ADLS Gen2**.
 
@@ -60,9 +60,7 @@ I have optimized cloud data workloads by implementing incremental processing and
 
 **Python • PySpark • SQL • MySQL • Azure SQL**
 
-### 🔐 Data Governance & Security
 
-**Unity Catalog • Data Governance • Data Quality • Schema Validation • Access Policies • Managed Identities • Azure Key Vault**
 
 ### 🔄 Development & Tools
 
